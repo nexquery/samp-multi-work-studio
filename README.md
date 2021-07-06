@@ -1,6 +1,9 @@
 # SA-MP Multi Work Editor
 This project is a comprehensive in-game editor.
 
+# Project Start
+The work of this project started on 05.07.2021
+
 ## Toolkits to be made in this project
 - [ ] Map Editor
 - [ ] Textdraw Editor
