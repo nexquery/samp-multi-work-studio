@@ -1,5 +1,5 @@
 # SA-MP Multi Work Editor
-If you are making a new game mode, this project allows you to easily create, edit and output things such as checkpoint, textdraw, map editor, label, map icon.
+This project is a comprehensive in-game editor.
 
 ## Toolkits to be made in this project
 - [ ] Map Editor
