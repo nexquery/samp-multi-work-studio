@@ -4,7 +4,7 @@ This project is a comprehensive in-game editor.
 # Project Start
 The work of this project started on 05.07.2021
 
-## Toolkits to be made in this project
+## Toolkits To Be Made In This Project
 - [ ] Map Editor
 - [ ] Textdraw Editor
 - [ ] Vehicle Editor
@@ -27,4 +27,4 @@ This project aims to support multi-language options for widespread use.
 This project will take a long time to complete as it is wide-ranging. If you think you are good in this field, you can help or make suggestions.
 
 ## Contributors
-- NexoR (Project idea)
+- Nexor (Project idea)
