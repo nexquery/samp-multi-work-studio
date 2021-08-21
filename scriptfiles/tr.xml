@@ -1,0 +1,16 @@
+# SA-MP Multi Work Editor | Textdraw Editor
+# Language: Turkish
+# Author: Nexor
+# Version: 1.0
+
+<?xml version="1.0"?>
+<first-login>
+	<get_str>Hoþ geldin!</get_str>
+	<get_int>10</get_int>
+	<get_float>192.0330</get_float>
+	<dialog_selection>
+		<button button1 =  "Test 1"/>
+		<button button2 =  "Test 2"/>
+		<button button3 =  "Test 3"/>
+	</dialog_selection>
+</first-login>
