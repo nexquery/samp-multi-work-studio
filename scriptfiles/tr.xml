@@ -5,7 +5,7 @@
 
 <?xml version="1.0"?>
 <first-login>
-	<get_str>Hoþ geldin!</get_str>
+	<get_str>HoÅŸ geldiniz!</get_str>
 	<get_int>10</get_int>
 	<get_float>192.0330</get_float>
 	<dialog_selection>
