@@ -1,4 +1,4 @@
-# SA-MP Multi Work Editor
+# SA-MP Multi Work Studio
 This project is a comprehensive in-game editor.
 
 # Project Start
